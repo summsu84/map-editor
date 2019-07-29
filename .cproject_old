@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+<storageModule moduleId="org.eclipse.cdt.core.settings">
+<cconfiguration id="org.eclipse.cdt.core.default.config.448246062">
+<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.448246062" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+<externalSettings/>
+<extensions>
+<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+</extensions>
+</storageModule>
+<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+<storageModule moduleId="scannerConfiguration"/>
+<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets">
+<buildTargets>
+<target name="Qt Release Build" path="" targetID="org.eclipse.cdt.make.MakeTargetBuilder">
+<buildCommand>make</buildCommand>
+<buildTarget>release</buildTarget>
+<stopOnError>false</stopOnError>
+<useDefaultCommand>false</useDefaultCommand>
+<runAllBuilders>true</runAllBuilders>
+</target>
+<target name="Qt Debug Build" path="" targetID="org.eclipse.cdt.make.MakeTargetBuilder">
+<buildCommand>make</buildCommand>
+<buildTarget>debug</buildTarget>
+<stopOnError>false</stopOnError>
+<useDefaultCommand>false</useDefaultCommand>
+<runAllBuilders>true</runAllBuilders>
+</target>
+</buildTargets>
+</storageModule>
+<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+<pathentry excluding="SAEU_S/|SAEUN04/|SAEUS01|SAEUN16/|SAEUN03/|SAEUN/|SAEUF/SAEUF02/|SAEUN15/|SAEUN06/|SAEUR/SAEUR01/|SAEUF/SAEUF01/|SAEUN14/|SAEUN05/|SAEUR/SAEUR02/|plungIn/|system/|SAEUN08/|management/|SAEUN13/|SAEUN07/|srcWidget/|SAEUF/|SAEUS04/|SAEUN12/|SAEU_A/|SAEUS/|SAEUA01|qss/|SAEUN02/|SAEUS03/|SAEUN11/|SAEUN09/|lib/|SAEUN01/|SAEUS02/|SAEUN10/" kind="src" path=""/>
+<pathentry kind="src" path="system"/>
+<pathentry kind="src" path="qss"/>
+<pathentry kind="src" path="lib"/>
+<pathentry kind="src" path="plungIn"/>
+<pathentry kind="src" path="SAEUA01"/>
+<pathentry kind="src" path="SAEUS/SAEUS01"/>
+<pathentry kind="src" path="SAEUS/SAEUS02"/>
+<pathentry kind="src" path="SAEUS/SAEUS03"/>
+<pathentry kind="src" path="SAEUS/SAEUS04"/>
+<pathentry kind="src" path="SAEUN/SAEUN02"/>
+<pathentry kind="src" path="SAEUN/SAEUN03"/>
+<pathentry kind="src" path="SAEUN/SAEUN04"/>
+<pathentry kind="src" path="SAEUN/SAEUN05"/>
+<pathentry kind="src" path="SAEUN/SAEUN06"/>
+<pathentry kind="src" path="SAEUN/SAEUN07"/>
+<pathentry kind="src" path="SAEUN/SAEUN08"/>
+<pathentry kind="src" path="SAEUN/SAEUN09"/>
+<pathentry kind="src" path="SAEUN/SAEUN10"/>
+<pathentry kind="src" path="SAEUN/SAEUN11"/>
+<pathentry kind="src" path="SAEUN/SAEUN12"/>
+<pathentry kind="src" path="SAEUN/SAEUN13"/>
+<pathentry kind="src" path="SAEUN/SAEUN14"/>
+<pathentry kind="src" path="SAEUN/SAEUN15"/>
+<pathentry kind="src" path="SAEUN/SAEUN16"/>
+<pathentry excluding="SAEUN01|SAEUS04|SAEUS02|SAEUS03|SAEUS01" kind="src" path="SAEUS"/>
+<pathentry excluding="SAEUN08|SAEUN04|SAEUN13|SAEUN16|SAEUN07|SAEUN03|SAEUN12|SAEUN15|SAEUN06|SAEUN02|SAEUN11|SAEUN09|SAEUN14|SAEUN05|SAEUN10" kind="src" path="SAEUN"/>
+<pathentry kind="src" path="SAEUF/SAEUF02"/>
+<pathentry kind="src" path="SAEUF/SAEUF01"/>
+<pathentry kind="src" path="SAEUR/SAEUR01"/>
+<pathentry kind="src" path="SAEUR/SAEUR02"/>
+<pathentry kind="out" path=""/>
+</storageModule>
+</cconfiguration>
+</storageModule>
+</cproject>

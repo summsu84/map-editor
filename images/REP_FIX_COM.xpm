@@ -1,0 +1,20 @@
+/* XPM */
+static char *REP_FIX_COM[]={
+"15 15 2 1",
+". c None",
+"a c #ffffff",
+"...............",
+".......a.......",
+"......aaa......",
+"......aaa......",
+".....aaaaa.....",
+".....aaaaa.....",
+"....aaaaaaa....",
+"....aaaaaaa....",
+"...aaaaaaaaa...",
+"...aaaaaaaaa...",
+"..aaaaaaaaaaa..",
+"..aaaaaaaaaaa..",
+".aaaaaaaaaaaaa.",
+".aaaaaaaaaaaaa.",
+"..............."};

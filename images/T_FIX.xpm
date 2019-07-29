@@ -1,0 +1,20 @@
+/* XPM */
+static char *NDB[]={
+"15 15 2 1",
+". c None",
+"a c #ffffff",
+".....a.a.a.....",
+"....a.a.a.a....",
+"...a.a.a.a.a...",
+"..a.a.a.a.a.a..",
+".a.a.a...a.a.a.",
+"a.a.a.aaa.a.a.a",
+".a.a.a...a.a.a.",
+"a.a..a.a.a..a.a",
+".a.a.a...a.a.a.",
+"a.a.a.aaa.a.a.a",
+".a.a.a...a.a.a.",
+"..a.a.a.a.a.a..",
+"...a.a.a.a.a...",
+"....a.a.a.a....",
+".....a.a.a....."};
